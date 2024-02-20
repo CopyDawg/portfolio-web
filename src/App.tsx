@@ -1,11 +1,13 @@
 import { Navbar, Footer  } from "./components/"
-import { HomeView } from "./views/HomeView";
+import { MainView } from "./views/MainView";
+import './styles/navbar.css'
+import './styles/footer.css'
 
 function App() {
   return(
     <>
       <Navbar/>
-      <HomeView/>
+      <MainView/>
       <Footer/>
     </>
   )
