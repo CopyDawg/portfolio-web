@@ -2,7 +2,7 @@ import '../styles/about.css';
 
 export const About = () => {
     return (
-        <div id="about-view">
+        <div id="ABOUT">
             <div className="about-main">
                 <div className='about-image'>
                     <img src="src\assets\PORTRAIT.png" alt="portrait"/>
