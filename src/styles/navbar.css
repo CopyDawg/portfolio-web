@@ -67,6 +67,9 @@
 .tooltip-experience {
     margin-left: -10px;
 }
+.tooltip-techs {
+    margin-left: -15px;
+}
 
 @media (max-width: 450px) {
     .navbar {
