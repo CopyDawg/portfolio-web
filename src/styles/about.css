@@ -1,6 +1,6 @@
 /* About */
 
-#about-view {
+#ABOUT {
     height: 100vh;
     display: flex;
     align-items: center;
@@ -82,7 +82,7 @@
 }
 
 @media (max-width: 1200px) {
-    #about-view {
+    #ABOUT {
         min-height: 100vh;
         height: fit-content;
     }
@@ -97,7 +97,7 @@
     }
 }
 @media (max-width: 610px) {
-    #about-view {
+    #ABOUT {
         align-items: baseline;
         margin-top: 30px;
         margin-bottom: 30px;
